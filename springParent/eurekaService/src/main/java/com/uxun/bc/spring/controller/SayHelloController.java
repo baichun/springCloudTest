@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Random;
 
 /**
- * Created by 欧阳爱东 on 2018/2/9.
+ * Created by baichun on 2018/2/9.
  */
 @RestController
 @RequestMapping("/say")
